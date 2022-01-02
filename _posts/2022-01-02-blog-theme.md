@@ -9,10 +9,10 @@ title:  "Blog Posting Plan - 2022"
  - 석사 : 산업경영공학
  - 현재 Data Scientist로 재직 중
  - 소개말
-    이것저것 새로운 것을 배우는 것에 많은 관심을 가지고 있어서, 학부와 석사과정 중에도 다양한 분야를 접하고 공부하였습니다. 
-    입사 후에는 Domain Knowledge에 대한 이해와 많은 실무적인 경험들을 주로 하고 있습니다.
-    석사 과정에서 주로 Process Mining/Data Mining/Discrete Event Simulation 등 분야에 대한 융합 연구를 수행하였습니다.
-    회사에서는 Deep Learning/Image Processing/Log Processing과 같은 다양한 분야를 학습하여 업무에 적용하고 있습니다.
+    + 이것저것 새로운 것을 배우는 것에 많은 관심을 가지고 있어서, 학부와 석사과정 중에도 다양한 분야를 접하고 공부하였습니다. 
+    + 입사 후에는 Domain Knowledge에 대한 이해와 많은 실무적인 경험들을 주로 하고 있습니다.
+    + 석사 과정에서 주로 Process Mining/Data Mining/Discrete Event Simulation 등 분야에 대한 융합 연구를 수행하였습니다.
+    + 회사에서는 Deep Learning/Image Processing/Log Processing과 같은 다양한 분야를 학습하여 업무에 적용하고 있습니다.
 
 
 
