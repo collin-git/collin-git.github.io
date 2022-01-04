@@ -4,7 +4,7 @@ title:  "Blog Posting Plan - 2022"
 ---
 
 
-# Bloger 소개
+# Blogger 소개
  - 학부 : 통계학 (빅데이터 연계전공, 경제학 부전공)
  - 석사 : 산업경영공학
  - 현재 Data Scientist로 재직 중
