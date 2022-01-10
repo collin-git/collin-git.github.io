@@ -27,12 +27,16 @@ def isPalindrome(s: str) -> bool:
     start_ind = 0
     end_ind = len(s)-1
     result = True
-    
+
     while start_ind <= end_ind:
         while not s[start_ind].isalnum():
             start_ind += 1
+            if start_ind > len(s)-1:
+                return True
         while not s[end_ind].isalnum():
             end_ind -= 1
+            if end_ind < 0:
+                return True
 
         if s[start_ind].lower()==s[end_ind].lower():
             if start_ind<end_ind:
