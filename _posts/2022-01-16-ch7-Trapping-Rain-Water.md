@@ -133,10 +133,3 @@ trap(height)
 
 
     6
-
-
-
-
-```python
-
-```
